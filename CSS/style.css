@@ -1,5 +1,6 @@
 body {
     background-color: beige;
+    margin: 20px;
 }
 h1 {
     font-family:Papyrus;
@@ -19,11 +20,13 @@ h3 {
     border: 5px solid rgb(251, 115, 5);
     width:40%;
     height:40%;
-    box-shadow: 0 2 black;
     display: block;
+    
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    margin: 20px;
+    margin-right: auto; 
     margin-left: auto;
-    margin-right: auto;
-    float: top;
     box-shadow: 7px 7px 7px #827b7b;
 }
 
