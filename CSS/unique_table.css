@@ -1,6 +1,7 @@
 table, th, td {
     border: 2px solid rgb(48, 22, 1);
     margin: auto;
+    font-family:'Kolker Brush', cursive;
 }
 img {
     width:20px;

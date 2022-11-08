@@ -1,6 +1,7 @@
 body {
     background-color: beige;
     margin: 20px;
+    font-family:'Kolker Brush', cursive;
 }
 h1 {
     font-family:Papyrus;
@@ -8,12 +9,10 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-family:'Montserrat', sans-serif;
     font-size:100%;
     text-align: left;
 }
 h3 {
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 .standard-img {
@@ -21,15 +20,11 @@ h3 {
     width:40%;
     height:40%;
     display: block;
-    
-    /* margin-top: 20px; */
-    /* margin-bottom: 20px; */
     margin: 20px;
     margin-right: auto; 
     margin-left: auto;
     box-shadow: 7px 7px 7px #827b7b;
 }
-
 .gradient {
     background-image: linear-gradient(to bottom right, beige, rgb(143, 72, 21));
 }
